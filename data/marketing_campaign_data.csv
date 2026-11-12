@@ -1,0 +1,19 @@
+month,channel,spend_inr,impressions,clicks,leads,notes
+2026-01,Google Search,9800,31200,1480,64,
+2026-01,Google Call Ads,9100,118000,3050,33,
+2026-01,Meta Lead Ads,5900,96500,2100,76,
+2026-02,Google Search,10200,32800,1525,68,
+2026-02,Google Call Ads,8900,116500,2980,34,
+2026-02,Meta Lead Ads,6050,99800,2240,81,
+2026-03,Google Search,11800,38900,1790,83,Seasonal offer promoted
+2026-03,Google Call Ads,9400,124000,3210,38,
+2026-03,Meta Lead Ads,7200,121000,2690,104,Seasonal offer promoted
+2026-04,Google Search,10100,33100,1510,,Conversion tracking broken 8-20 Apr
+2026-04,Google Call Ads,9000,117800,3010,33,
+2026-04,Meta Lead Ads,6000,98200,2150,79,
+2026-05,Google Search,10300,33900,1560,70,
+2026-05,Google Call Ads,9200,119400,3090,35,
+2026-05,Meta Lead Ads,6100,99500,2210,80,
+2026-06,Google Search,10500,34600,1590,72,
+2026-06,Google Call Ads,9300,120100,3120,36,
+2026-06,Meta Lead Ads,6200,101300,2190,55,New ad creative launched 3 Jun
